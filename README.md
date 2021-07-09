@@ -3,7 +3,7 @@
 Link to pre-print: 
 
 Code Files: 
-+ #Fig1-CommunityContactMatrix.R: 
++ *Fig1-CommunityContactMatrix.R*: 
     + Test 
 + Fig2-LocationContactMatrix.R:
 + Fig3- 
