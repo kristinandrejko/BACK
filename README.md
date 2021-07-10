@@ -22,23 +22,23 @@ Notes:
 ### Code Files: 
 + **Fig1-CommunityContactMatrix.R**
     + Creates community contact matrices displayed in: 
-        + Figure 1: age-structured community contact matrices
-        + Figure S4: age-structured community contact matrices stratified by hispanic, income, adults working from home
-        + Figure S5: age-structured community contact matrices stratified by vaccination status 
-        + Figure S6: bootstrapped estimates of age-structured community contact matrices
+        + *Figure 1*: age-structured community contact matrices
+        + *Figure S4*: age-structured community contact matrices stratified by hispanic, income, adults working from home
+        + *Figure S5*: age-structured community contact matrices stratified by vaccination status 
+        + *Figure S6*: bootstrapped estimates of age-structured community contact matrices
     + Output can also be found via`contact matrices/community`
 + **Fig2-LocationContactMatrix.R**
-    + Creates community contact matrices stratified by location displayed in Figure3 2, output can also be found via  `contact matrices/community/location`
+    + Creates community contact matrices stratified by location displayed in *Figure2*, output can also be found via  `contact matrices/community/location`
 + **Fig4-REstimation-Code.R**
-    + Code for R0 estimation, including code to generate for Figure 4
+    + Code for R0 estimation, including code to generate *Figure 4*
 + **FigS2-HistogramOfContacts.R**
-    + Code to generate Figure S2: histogram of total contacts by study wave 
+    + Code to generate *Figure S2*: histogram of total contacts by study wave 
 + **FigS3-LocationBarPlots.R**
-    + Code to generate Figure S3: Average number of non-household contacts stratified by location of contact, age category, and study wave.
+    + Code to generate *Figure S3*: Average number of non-household contacts stratified by location of contact, age category, and study wave.
 + **Tb1-DistributionOfStudyParticipants.R**
-    + Code to generate Table 1: Distribution of Study Participants
+    + Code to generate *Table 1*: Distribution of Study Participants
 + **Tb2-MeanContacts.R**
-    + Code to generate bootstrapped estimates of the number of non-household contacts by demographic characteristics 
+    + Code to generate bootstrapped estimates of the number of non-household contacts by demographic characteristics (*Table 2*)
 + **Tb3-GeeModels.R** 
     + Code to run generalized estimating equation models, and creates plot for Figure 3
 
