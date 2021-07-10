@@ -49,4 +49,4 @@ Notes:
     + `/MayDataShare`: cleaned survey data from May 2020 (wave one) 
     + `/AugDataShare`: cleaned survey data from August 2020 (wave two) 
     + `/FebDataShare`: cleaned survey data from February 2021 (wave three) 
-    + `/data_comb`: used to run GEE models, includes truncated data set of relevant variables from all three waves
+    + `/data_comb`: used to run GEE models, includes truncated data set of relevant variables and observations from all three waves
