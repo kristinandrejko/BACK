@@ -9,7 +9,15 @@ Notes:
 + Community contact matrices provide median (`med`), 2.5% (`lb`), and 97.5% (`ub`) bootstrapped estimates of community contacts 
 + Location contact matrices include community contacts only for each of the 8 locations listed in the manuscript: home, childcare, essential activities, someone else's home, outdoor leisure,school, public transit, or work. 
 + Contact matrices are provided in matrix form for 6 age bands: 0-4, 5-12, 13-17, 18-39, 40-64, 65+
-   + The top left corner of each matrix [1,1] corresponds to average rate of 0-4 year olds contacting other 0-4 year olds  
+   + The top left corner of each matrix [1,1] corresponds to average rate 0-4 year olds (survey participant) contacting other 0-4 year olds  
+   + Ages of the individual are listed in columns, Ages of the contact are listed in rows 
+      + [,1] represents average contacts for 0-4 year olds surveyed
+      + [,2] represents average contacts for 5-12 year olds surveyed
+      + [,3] represents average contacts for 13-17 year olds surveyed
+      + [,4] represents average contacts for 18-39 year olds surveyed
+      + [,5] represents average contacts for 40-64 year olds surveyed
+      + [,6] represents average contacts for 65 + year olds surveyed
+
 
 ### Code Files: 
 + **Fig1-CommunityContactMatrix.R**
