@@ -1,8 +1,14 @@
-# Longitudinal social-contact patterns among school-aged children during the COVID-19 pandemic: the Bay Area Contacts among Kids (BACK) study
+## Longitudinal social-contact patterns among school-aged children during the COVID-19 pandemic: the Bay Area Contacts among Kids (BACK) study
 
-Link to pre-print: 
+### Link to pre-print: 
 
-Code Files: 
+### Contact matrices
+Navigate to `contact matrices` folder to download both community and household contact matrices for each wave of the study. 
+
+Please note: 
++ Wave One in the pre-print corresponds to "May" files, Wave Two = "Aug", Wave Three = "Feb"
+
+### Code Files: 
 + **Fig1-CommunityContactMatrix.R**
     + Creates community contact matrices displayed in Figure 1, output can also be found via `contact matrices -> community`
 + **Fig2-LocationContactMatrix.R**
