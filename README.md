@@ -40,7 +40,7 @@ Notes:
 + **Tb2-MeanContacts.R**
     + Code to generate bootstrapped estimates of the number of non-household contacts by demographic characteristics (*Table 2*)
 + **Tb3-GeeModels.R** 
-    + Code to run generalized estimating equation models, and creates plot for Figure 3
+    + Code to run generalized estimating equation models, and creates plot for *Figure 3* and *Table S3*
 
 
 ### Data Files: 
