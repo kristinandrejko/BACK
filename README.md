@@ -21,11 +21,16 @@ Notes:
 
 ### Code Files: 
 + **Fig1-CommunityContactMatrix.R**
-    + Creates community contact matrices displayed in Figure 1, output can also be found via `contact matrices/community`
+    + Creates community contact matrices displayed in: 
+        + Figure 1: age-structured community contact matrices
+        + Figure S4: age-structured community contact matrices stratified by hispanic, income, adults working from home
+        + Figure S5: age-structured community contact matrices stratified by vaccination status 
+        + Figure S6: bootstrapped estimates of age-structured community contact matrices
+    + Output can also be found via`contact matrices/community`
 + **Fig2-LocationContactMatrix.R**
     + Creates community contact matrices stratified by location displayed in Figure3 2, output can also be found via  `contact matrices/community/location`
 + **Fig4-REstimation-Code.R**
-    + Code for R_e estimation, including code to generate for Figure 4
+    + Code for R0 estimation, including code to generate for Figure 4
 + **FigS2-HistogramOfContacts.R**
     + Code to generate Figure S2: histogram of total contacts by study wave 
 + **FigS3-LocationBarPlots.R**
