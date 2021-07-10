@@ -3,10 +3,10 @@
 ### Link to pre-print: *coming soon*
 
 ### Contact matrices
-Navigate to `contact matrices` folder to download both community and household contact matrices for each wave of the study. 
+Navigate to `/contact matrices` folder to download community and household contact matrices for each wave of the BACK study. 
 Notes: 
-+ Wave One in the pre-print corresponds to "May" files; Wave Two = "Aug"l Wave Three = "Feb"
-+ `contact matrices/community`: Community contact matrices provide median (`med`), 2.5% (`lb`), and 97.5% (`ub`) across 10,000 bootstrapped estimates of average community contacts
++ Wave One in the pre-print corresponds to "may" files; Wave Two = "aug"; Wave Three = "feb"
++ `contact matrices/community`: Community contact matrices provide median (`med`), 2.5% (`lb`), and 97.5% (`ub`) estimates across 10,000 bootstrapped samples of average community contacts
 + `contact matrices/community/location`: Location contact matrices include community contacts only for each of the 8 locations listed in the manuscript: home, childcare, essential activities, someone else's home, outdoor leisure,school, public transit, or work. 
 + Contact matrices are provided in matrix form for 6 age bands: 0-4, 5-12, 13-17, 18-39, 40-64, 65+
    + The top left corner of each matrix [1,1] corresponds to average rate 0-4 year olds (survey participant) contacted other 0-4 year olds  
